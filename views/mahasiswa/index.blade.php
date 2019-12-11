@@ -17,6 +17,8 @@
                                 <th scope="col">Email</th>
                                 <th scope="col">Jurusan</th>
                                 <th scope="col">Aksi</th>
+                                //coba
+                                <th scope="col">Coba</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -31,6 +33,8 @@
                                     <a href="" class="badge badge-primary">edit</a>
                                     <a href="" class="badge badge-danger">delete</a>
                                 </td>
+                                //coba
+                                <td>hai</td>
                             </tr>
                             @endforeach
                         </tbody>
