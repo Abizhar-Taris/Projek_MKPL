@@ -1,14 +1,4 @@
-@extends('layout/main')
 
-@section('title', 'ABOUT')
-
-@section('container')
-    <div class="container">
-        <div class="row">
-            <div class="col-10">
-                    <h1>Daftar Mahasiswa</h1>
-
-                    <table class="table">
                         <thead class="thead-dark">
                             <tr>
                                 <th scope="col">#</th>
