@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Test ubah tulisan
-=======
-INI HRSNYA SALAH
->>>>>>> 28dae2d32f21442ca932681878d1fb99b8cca336
