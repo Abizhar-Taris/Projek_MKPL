@@ -9,6 +9,8 @@
                                 <th scope="col">Aksi</th>
                                 //coba
                                 <th scope="col">Coba</th>
+                                //coba 2
+                                <th scope="col">Coba 2</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -25,6 +27,7 @@
                                 </td>
                                 //coba
                                 <td>hai</td>
+                                <td>hai lagi</td>
                             </tr>
                             @endforeach
                         </tbody>
