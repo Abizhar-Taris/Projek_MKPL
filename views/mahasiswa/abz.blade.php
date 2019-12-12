@@ -1,14 +1,3 @@
-@extends('layout/main')
-
-@section('title', 'ABOUT')
-
-@section('container')
-    <div class="container">
-        <div class="row">
-            <div class="col-10">
-                    <h1>Daftar Mahasiswa</h1>
-
-                    <table class="table">
                         <thead class="thead-dark">
                             <tr>
                                 <th scope="col">#</th>
@@ -27,6 +16,7 @@
                                 <td>{{$mhs->nim}}</td>
                                 <td>{{$mhs->email}}</td>
                                 <td>{{$mhs->jurusan}}</td>
+                                <td>{{$mhs->nohp}}</td>
                                 <td>
                                     <a href="" class="badge badge-primary">edit</a>
                                     <a href="" class="badge badge-danger">delete</a>
