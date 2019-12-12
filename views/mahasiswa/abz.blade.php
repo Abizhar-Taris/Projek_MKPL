@@ -6,6 +6,10 @@
                                 <th scope="col">Email</th>
                                 <th scope="col">Jurusan</th>
                                 <th scope="col">Aksi</th>
+                                //coba
+                                <th scope="col">Coba</th>
+                                //coba 2
+                                <th scope="col">Coba 2</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -21,6 +25,9 @@
                                     <a href="" class="badge badge-primary">edit</a>
                                     <a href="" class="badge badge-danger">delete</a>
                                 </td>
+                                //coba
+                                <td>hai</td>
+                                <td>hai lagi</td>
                             </tr>
                             @endforeach
                         </tbody>
