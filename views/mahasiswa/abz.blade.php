@@ -11,6 +11,8 @@
                                 <th scope="col">Coba</th>
                                 //coba 2
                                 <th scope="col">Coba 2</th>
+				// halo apa kabar
+				<th scope="col">baik2 saja</th>
                             </tr>
                         </thead>
                         <tbody>
