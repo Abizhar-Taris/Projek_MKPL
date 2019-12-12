@@ -10,6 +10,8 @@
                                 <th scope="col">Coba</th>
                                 //coba 2
                                 <th scope="col">Coba 2</th>
+                                //coba 3 
+                                <th scope="col">Coba 3</th>
                             </tr>
                         </thead>
                         <tbody>
