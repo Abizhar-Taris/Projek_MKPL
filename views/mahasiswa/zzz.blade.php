@@ -13,6 +13,7 @@
                                 <th scope="col">Coba 2</th>
 				// halo apa kabar
 				<th scope="col">baik2 saja</th>
+				// oke
                             </tr>
                         </thead>
                         <tbody>
